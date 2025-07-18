@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I'm Mahesh More
 
-<!--
-**maheshekmore/maheshekmore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Senior PHP / Laravel Developer** with 6+ years of experience building scalable ERP, e-commerce, and CMS platforms.
 
-Here are some ideas to get you started:
+💼 Currently Team Lead at Parasight Solutions, delivering end-to-end solutions with Laravel, Yii2, and REST APIs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌍 Worked with international clients (US, Singapore) on custom applications and automation.
+
+📫 **Open to remote opportunities** | Let's collaborate!
+
+---
+
+### 🛠️ Tech Stack
+
+- **Backend**: PHP, Laravel, Yii2
+- **Frontend**: HTML5, CSS3, jQuery, AJAX
+- **Database**: MySQL
+- **Tools**: Git, Postman, VS Code, Zapier
+- **CMS**: WordPress, Custom CMS
+- **DevOps**: GitHub, Bitbucket
+
+---
+
+### 🔗 Featured Projects
+
+#### 📦 [Join Craft Club](#)
+> US-based e-commerce + subscription platform with payment integrations (SquareUp, Clover) and automation (Zapier, Klaviyo).
+
+#### 🏫 [Vani School ERP](#)
+> Fee management, tax filing, and admission modules using Yii2 and MySQL.
+
+#### 🌱 [India Climate Collaborative](#)
+> CMS with real-time content editing and collaborative tools.
+
+#### 📊 [CA Stock Audit](#)
+> Warehouse tracking, real-time sync APIs, and inventory reporting tools.
+
+> *More projects coming soon...*
+
+---
+
+### 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/mahesh-more-946426b1)
+- Email: maheshekmore07@gmail.com
