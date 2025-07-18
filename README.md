@@ -23,13 +23,13 @@
 
 ### 🔗 Featured Projects
 
-#### 📦 [Join Craft Club](#)
+#### 📦 [Join Craft Club](https://joincraftclub.com/)
 > US-based e-commerce + subscription platform with payment integrations (SquareUp, Clover) and automation (Zapier, Klaviyo).
 
-#### 🏫 [Vani School ERP](#)
+#### 🏫 [Vani School ERP](https://thevanischool.org/)
 > Fee management, tax filing, and admission modules using Yii2 and MySQL.
 
-#### 🌱 [India Climate Collaborative](#)
+#### 🌱 [India Climate Collaborative](https://indiaclimatecollaborative.org/)
 > CMS with real-time content editing and collaborative tools.
 
 #### 📊 [CA Stock Audit](#)
